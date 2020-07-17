@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 
-	_ "githu.com/wb253/goshentong"
+	_ "github.com/wb253/goshentong"
 )
 
 func main() {
