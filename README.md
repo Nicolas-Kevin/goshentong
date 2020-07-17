@@ -22,6 +22,6 @@ Libs: -L${libdir} -laci
 
 设置环境变量
 export LD_LIBRARY_PATH=/opt/ShenTong/aci/linux64
-export PKG_CONFIG_PATH=api.pc 所在目录
+export PKG_CONFIG_PATH=aci.pc所在目录
 
 
